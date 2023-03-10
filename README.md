@@ -32,4 +32,7 @@
  <p>
   <img src="https://github.com/shyam-206/imdb-clone/blob/e0940a659eee40c489fb97e503d74459e54d5887/preview%202.png" />
  </p>
+ <p>
+  <img src="https://github.com/shyam-206/imdb-clone/blob/23b0d44345a0b0717a31504c79cc2cf63c181354/preview%203.png" />
+ </p>
  <hr>
